@@ -1,4 +1,6 @@
 # 用Anki练英语
+![Peek 2025-07-16 20-44](https://github.com/user-attachments/assets/1eab9d60-0616-4225-b036-54e35c7dd775)
+
 
 ## 第一次使用
 1. 要有Anki
