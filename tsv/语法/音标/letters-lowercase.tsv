@@ -1,0 +1,31 @@
+#separator:Tab
+#notetype:@phonetics
+#deck:音标
+#columns:Word	Phone	Title
+#说明：避免ios的tts在朗读大写字母时，前面多读一个"capital"
+a	/eɪ/	26个字母
+b	/biː/	26个字母
+c	/siː/	26个字母
+d	/diː/	26个字母
+e	/iː/	26个字母
+f	/ef/	26个字母
+g	/dʒiː/	26个字母
+h	/eɪtʃ/	26个字母
+i	/aɪ/	26个字母
+j	/dʒeɪ/	26个字母
+k	/keɪ/	26个字母
+l	/el/	26个字母
+m	/em/	26个字母
+n	/en/	26个字母
+o	/əʊ/	26个字母
+p	/piː/	26个字母
+q	/kjuː/	26个字母
+r	/ɑː/	26个字母
+s	/es/	26个字母
+t	/tiː/	26个字母
+u	/juː/	26个字母
+v	/viː/	26个字母
+w	/ˈdʌbljuː/	26个字母
+x	/eks/	26个字母
+y	/waɪ/	26个字母
+z	/zed/	26个字母
