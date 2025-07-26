@@ -2,29 +2,30 @@
 #notetype:@phonetics
 #deck:音标
 #columns:Word	Phone	Title
-A	/eɪ/	26个字母
-B	/biː/	26个字母
-C	/siː/	26个字母
-D	/diː/	26个字母
-E	/iː/	26个字母
-F	/ef/	26个字母
-G	/dʒiː/	26个字母
-H	/eɪtʃ/	26个字母
-I	/aɪ/	26个字母
-J	/dʒeɪ/	26个字母
-K	/keɪ/	26个字母
-L	/el/	26个字母
-M	/em/	26个字母
-N	/en/	26个字母
-O	/əʊ/	26个字母
-P	/piː/	26个字母
-Q	/kjuː/	26个字母
-R	/ɑː/	26个字母
-S	/es/	26个字母
-T	/tiː/	26个字母
-U	/juː/	26个字母
-V	/viː/	26个字母
-W	/ˈdʌbljuː/	26个字母
-X	/eks/	26个字母
-Y	/waɪ/	26个字母
-Z	/zed/	26个字母
+#说明：避免ios的tts在朗读大写字母时，前面多读一个"capital"，所以采用小写字母的形式，但是用css将其转成大写形式显示
+<span style="text-transform: uppercase;">a</span>	/eɪ/	26个字母
+<span style="text-transform: uppercase;">b</span>	/biː/	26个字母
+<span style="text-transform: uppercase;">c</span>	/siː/	26个字母
+<span style="text-transform: uppercase;">d</span>	/diː/	26个字母
+<span style="text-transform: uppercase;">e</span>	/iː/	26个字母
+<span style="text-transform: uppercase;">f</span>	/ef/	26个字母
+<span style="text-transform: uppercase;">g</span>	/dʒiː/	26个字母
+<span style="text-transform: uppercase;">h</span>	/eɪtʃ/	26个字母
+<span style="text-transform: uppercase;">i</span>	/aɪ/	26个字母
+<span style="text-transform: uppercase;">j</span>	/dʒeɪ/	26个字母
+<span style="text-transform: uppercase;">k</span>	/keɪ/	26个字母
+<span style="text-transform: uppercase;">l</span>	/el/	26个字母
+<span style="text-transform: uppercase;">m</span>	/em/	26个字母
+<span style="text-transform: uppercase;">n</span>	/en/	26个字母
+<span style="text-transform: uppercase;">o</span>	/əʊ/	26个字母
+<span style="text-transform: uppercase;">p</span>	/piː/	26个字母
+<span style="text-transform: uppercase;">q</span>	/kjuː/	26个字母
+<span style="text-transform: uppercase;">r</span>	/ɑː/	26个字母
+<span style="text-transform: uppercase;">s</span>	/es/	26个字母
+<span style="text-transform: uppercase;">t</span>	/tiː/	26个字母
+<span style="text-transform: uppercase;">u</span>	/juː/	26个字母
+<span style="text-transform: uppercase;">v</span>	/viː/	26个字母
+<span style="text-transform: uppercase;">w</span>	/ˈdʌbljuː/	26个字母
+<span style="text-transform: uppercase;">x</span>	/eks/	26个字母
+<span style="text-transform: uppercase;">y</span>	/waɪ/	26个字母
+<span style="text-transform: uppercase;">z</span>	/zed/	26个字母
