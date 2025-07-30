@@ -1,5 +1,5 @@
 # 用Anki练英语
-![Peek 2025-07-16 20-44](https://github.com/user-attachments/assets/1eab9d60-0616-4225-b036-54e35c7dd775)
+[vokoscreenNG-2025-07-30_11-29-14.webm](https://github.com/user-attachments/assets/9b6889de-ab2a-45c6-a87d-edd8e1064d69)
 
 
 ## 第一次使用
