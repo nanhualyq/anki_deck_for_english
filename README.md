@@ -1,6 +1,5 @@
 # 用Anki练英语
-[demo.mp4](https://github.com/user-attachments/assets/81032f02-0713-4ff5-b8a5-d815c0dbb1fc
-)
+[demo.mp4](https://github.com/user-attachments/assets/81032f02-0713-4ff5-b8a5-d815c0dbb1fc)
 
 
 ## 第一次使用
